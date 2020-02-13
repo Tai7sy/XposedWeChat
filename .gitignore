@@ -1,0 +1,10 @@
+/wechatstep/*.iml
+/wechatstep/build
+/gradle
+/.gradle
+/.idea
+/Xposedwechatstep.iml
+/gradlew
+/gradlew.bat
+/local.properties
+/tencentmaplitelib/tencentmaplitelib.iml

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">微信助手</string>
+    <string name="action_about">关于</string>
+    <string name="app_description">微信步数修改</string>
+</resources>
